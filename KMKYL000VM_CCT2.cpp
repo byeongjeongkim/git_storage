@@ -7,6 +7,7 @@
 //add exp
 //exp2
 //conflict
+//remote storage 
 
 #include "stdafx.h"
 #include "pindefine.h"
