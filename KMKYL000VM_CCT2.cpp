@@ -4,6 +4,7 @@
 
 //1 add
 //add b
+//add exp
 
 #include "stdafx.h"
 #include "pindefine.h"
