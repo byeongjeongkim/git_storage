@@ -9,6 +9,7 @@
 //conflict
 //remote storage 
 //synchronize
+//pull
 
 #include "stdafx.h"
 #include "pindefine.h"
