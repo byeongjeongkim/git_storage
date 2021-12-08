@@ -10,6 +10,7 @@
 //remote storage 
 //synchronize
 //pull
+//push.byeongjeong
 
 #include "stdafx.h"
 #include "pindefine.h"
