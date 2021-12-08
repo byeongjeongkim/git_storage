@@ -8,6 +8,7 @@
 //exp2
 //conflict
 //remote storage 
+//synchronize
 
 #include "stdafx.h"
 #include "pindefine.h"
