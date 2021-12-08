@@ -2,7 +2,6 @@
 //
 //////////////////////////////////////////////////////////////////////
 
-//sync.byeongjeong
 //1 add
 //add b
 //add exp
@@ -13,7 +12,7 @@
 //pull
 //push.byeongjeong
 //pull.bj
-//conflict.byeongjeong
+//conflict.bj
 
 #include "stdafx.h"
 #include "pindefine.h"
