@@ -12,6 +12,7 @@
 //synchronize
 //pull
 //push.byeongjeong
+//pull.bj
 
 #include "stdafx.h"
 #include "pindefine.h"
