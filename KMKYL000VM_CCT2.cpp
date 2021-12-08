@@ -12,6 +12,7 @@
 //pull
 //push.byeongjeong
 //pull.bj
+//conflict.bj
 
 #include "stdafx.h"
 #include "pindefine.h"
